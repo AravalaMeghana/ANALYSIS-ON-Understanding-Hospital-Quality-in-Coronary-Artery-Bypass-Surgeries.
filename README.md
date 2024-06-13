@@ -1,6 +1,7 @@
 # ANALYSIS-ON-Understanding-Hospital-Quality-in-Coronary-Artery-Bypass-Surgeries Using Tableau
 I am delighted to share an extensive evalua:on of hospital care quality derived from rigorous research and thorough data scru:ny. The main objec:ve of this analysis is to offer a comprehensive view of vital hospital performance measures, aiding individuals in making well-informed decisions and choose what suit’s the best concerning their healthcare op:ons.
 In this exploration of Cardiac Care data , I’ve used Tableau to generate visuals and derive key insights.
+
 VISUAL 1: FILLED MAP OF AVERAGE CABG COUNT IN EACH STATE
 VISUAL 2 : BAR GRAPH OF AVERAGE CABG CASES AND MORTALITY OF EACH HOSPITALS IN EACH STATE.
 VISUAL 3 : TEXT TABLE OF HOSPITAL AND THEIR STAR RATING BY PUBLIC.
